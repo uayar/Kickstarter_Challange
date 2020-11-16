@@ -13,10 +13,10 @@ The purpose of this workbook is to provide an overview for project outcomes base
 Outcomes of the projects were analyzed based on launch date and goals. There were some challanges encountered during the data analysis process due to improper data format and categorization.
 
 2.1. Analysis of Outcomes Based on Launch Date
-In this section, campaign outcomes were analized based on the launch dates of projects to identify the most suitable and least suitable months to launch a project. Refer to section 4 for the results.
+In this section, campaign outcomes were analized based on the launch dates of projects to identify the most suitable and least suitable months to launch a project. Refer to section 3 for the results.
 
 2.2. Analysis of Outcomes Based on Goals
-In this section, campaign outcomes were analized based on the project goals to identify the most suitable and least suitable amounts to launch a project. Refer to section 4 for the results.
+In this section, campaign outcomes were analized based on the project goals to identify the most suitable and least suitable amounts to launch a project. Refer to section 3 for the results.
 
 2.3. Challenges and Difficulties Encountered
 There were some challanges encountered during the data analysis process caused by the original worksheet due to improper data formatting and categorization, such as the date formats for launch and dealine were provided only in a machine-readable format, also category and subcategory tab required to be seperated so more specific data analysis could be performed per the scope of the work.
